@@ -9,6 +9,14 @@ This is my personal portfolio website designed to showcase my projects, skills, 
 - Contact Links
 - Responsive Layout
 
+## 📌 Other Projects
+
+- [JavaScript Projects](https://github.com/vaibhaviboche/JAVASCRIPT-projects)
+- [Python Projects](https://github.com/vaibhaviboche/Python-Projects)
+- [HTML & CSS Projects](https://github.com/vaibhaviboche/HTML-CSS-Projects)
+- [Frontend Libraries](https://github.com/vaibhaviboche/FRONTEND-LIBRARIES)
+
+
 ## 🛠️ Technologies Used
 
 - HTML5
