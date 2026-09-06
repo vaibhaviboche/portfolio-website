@@ -20,6 +20,10 @@ The website is built using HTML and CSS with a clean and simple design focused o
 * CSS3
 * Google Fonts
 
+## 🌐 Live Demo
+
+**[View My Portfolio](https://vaibhaviboche.github.io/portfolio-website/)**
+
 ## 📁 Project Structure
 
 ```text
@@ -55,7 +59,7 @@ Explore some of my other work:
 
 ## 🎯 Purpose
 
-This project was created to practice frontend development and to build a professional online presence for showcasing my technical skills and projects.
+This project was created to practice frontend development and build a professional online presence for showcasing my technical skills and projects.
 
 ## 👩‍💻 Author
 
@@ -66,7 +70,7 @@ This project was created to practice frontend development and to build a profess
 
 ## 📌 Future Improvements
 
-* Deploy the website using GitHub Pages
 * Add JavaScript-based interactions
 * Add project screenshots and live demos
-* Improve accessibility and responsive design
+* Improve accessibility
+* Further improve responsive design
